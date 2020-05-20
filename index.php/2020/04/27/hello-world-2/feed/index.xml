@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="/https://maryjoyt.github.io/wordpress00/index.php/2020/04/27/hello-world-2/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://maryjoyt.github.io/wordpress00/index.php/2020/04/27/hello-world-2/</link>
+	<atom:link href="https://maryjoyt.github.io/wordpress00/index.php/2020/04/27/hello-world-2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://maryjoyt.github.io/wordpress00/index.php/2020/04/27/hello-world-2/</link>
 	<description></description>
 	<lastBuildDate>Wed, 06 May 2020 00:11:49 +0000</lastBuildDate>
 	<sy:updatePeriod>

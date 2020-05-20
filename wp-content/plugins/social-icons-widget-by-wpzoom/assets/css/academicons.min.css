@@ -23,8 +23,8 @@
 
 @font-face {
     font-family: Academicons;
-    src: url(/https://maryjoyt.github.io/wordpress00/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.eot?v=1.8.6);
-    src: url(/https://maryjoyt.github.io/wordpress00/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.eot?v=1.8.6) format('embedded-opentype'), url(/https://maryjoyt.github.io/wordpress00/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.ttf?v=1.8.6) format('truetype'), url(/https://maryjoyt.github.io/wordpress00/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.woff?v=1.8.6) format('woff'), url(/https://maryjoyt.github.io/wordpress00/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.svg?v=1.8.6#academicons) format('svg');
+    src: url(https://maryjoyt.github.io/wordpress00/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.eot?v=1.8.6);
+    src: url(https://maryjoyt.github.io/wordpress00/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.eot?v=1.8.6) format('embedded-opentype'), url(https://maryjoyt.github.io/wordpress00/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.ttf?v=1.8.6) format('truetype'), url(https://maryjoyt.github.io/wordpress00/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.woff?v=1.8.6) format('woff'), url(https://maryjoyt.github.io/wordpress00/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.svg?v=1.8.6#academicons) format('svg');
     font-weight: 400;
     font-style: normal
 }

@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'socicon';
-    src:  url('../font/socicon.eot');
-    src:  url('../font/socicon.eot') format('embedded-opentype'),
-      url('../font/socicon.ttf') format('truetype'),
-      url('../font/socicon.woff') format('woff'),
-      url('../font/socicon.svg') format('svg');
+    src:  url('https://maryjoyt.github.io/wordpress00/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.eot');
+    src:  url('https://maryjoyt.github.io/wordpress00/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.eot') format('embedded-opentype'),
+      url('https://maryjoyt.github.io/wordpress00/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.ttf') format('truetype'),
+      url('https://maryjoyt.github.io/wordpress00/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff') format('woff'),
+      url('https://maryjoyt.github.io/wordpress00/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.svg') format('svg');
     font-weight: normal;
     font-style: normal;
     text-transform: initial;

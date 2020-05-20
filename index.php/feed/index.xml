@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Tempor</title>
-	<atom:link href="/https://maryjoyt.github.io/wordpress00/index.php/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://maryjoyt.github.io/wordpress00</link>
+	<atom:link href="https://maryjoyt.github.io/wordpress00/index.php/feed/" rel="self" type="application/rss+xml" />
+	<link>https://maryjoyt.github.io/wordpress00</link>
 	<description></description>
 	<lastBuildDate>Wed, 06 May 2020 00:11:49 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,33 +21,31 @@
 	<generator>https://wordpress.org/?v=5.3.3</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/https://maryjoyt.github.io/wordpress00/index.php/2020/04/27/hello-world/</link>
-				<comments>/https://maryjoyt.github.io/wordpress00/index.php/2020/04/27/hello-world/#comments</comments>
+		<link>https://maryjoyt.github.io/wordpress00/index.php/2020/04/27/hello-world/</link>
+				<comments>https://maryjoyt.github.io/wordpress00/index.php/2020/04/27/hello-world/#comments</comments>
 				<pubDate>Mon, 27 Apr 2020 05:20:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
-
-		<guid isPermaLink="false">/https://maryjoyt.github.io/wordpress00/?p=1</guid>
+		
+		<guid isPermaLink="false">https://maryjoyt.github.io/wordpress00/?p=1</guid>
 				<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 								<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
-							<wfw:commentRss>/https://maryjoyt.github.io/wordpress00/index.php/2020/04/27/hello-world/feed/</wfw:commentRss>
+							<wfw:commentRss>https://maryjoyt.github.io/wordpress00/index.php/2020/04/27/hello-world/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 							</item>
 		<item>
 		<title>Hello world!</title>
-		<link>/https://maryjoyt.github.io/wordpress00/index.php/2020/04/27/hello-world-2/</link>
-				<comments>/https://maryjoyt.github.io/wordpress00/index.php/2020/04/27/hello-world-2/#respond</comments>
+		<link>https://maryjoyt.github.io/wordpress00/index.php/2020/04/27/hello-world-2/</link>
+				<comments>https://maryjoyt.github.io/wordpress00/index.php/2020/04/27/hello-world-2/#respond</comments>
 				<pubDate>Mon, 27 Apr 2020 05:10:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
-
+		
 		<guid isPermaLink="false">http://demo.athemes.com/sydney-redesign/?p=1</guid>
 				<description><![CDATA[Welcome to aThemes Demo Sites. This is your first post. Edit or delete it, then start blogging!]]></description>
 								<content:encoded><![CDATA[<p>Welcome to <a href="http://demo.athemes.com/">aThemes Demo Sites</a>. This is your first post. Edit or delete it, then start blogging!</p>
 ]]></content:encoded>
-							<wfw:commentRss>/https://maryjoyt.github.io/wordpress00/index.php/2020/04/27/hello-world-2/feed/</wfw:commentRss>
+							<wfw:commentRss>https://maryjoyt.github.io/wordpress00/index.php/2020/04/27/hello-world-2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>
